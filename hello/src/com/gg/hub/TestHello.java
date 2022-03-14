@@ -13,6 +13,8 @@ public class TestHello {
 		System.out.println("11");
 		System.out.println("22");
 				System.out.println("2022年3月14日09:57:44");
+						System.out.println("拉取test");
+
 
 	}
 
